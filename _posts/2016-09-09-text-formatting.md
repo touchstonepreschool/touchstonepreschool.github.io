@@ -1,4 +1,4 @@
 ---
 title: "Cognitive Development"
-image: curriculum5.png
+image: curriculum2.png
 ---
