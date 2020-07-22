@@ -11,7 +11,7 @@ menu:
 - {name: 'Our Vision', folder: 'pages', file: 'vision.html'}
 - {name: 'Our Mission', folder: 'pages', file: 'mission.html'}
 - {name: 'Curriculum', folder: 'pages', file: 'curriculum.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Contact Us', folder: 'pages', file: 'contact.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 
 
