@@ -1,4 +1,4 @@
 ---
-title: "Our Vision"
+title: "Cognitive Development"
 image: curriculum4.png
 ---
