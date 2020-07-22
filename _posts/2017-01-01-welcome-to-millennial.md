@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Touchstone Preschool!"
+title: "Welcome to Touchstone!"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
