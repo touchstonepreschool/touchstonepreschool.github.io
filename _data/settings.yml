@@ -7,11 +7,11 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'About', folder: 'documentation', file: 'about.html'}
-- {name: 'Our Vision', folder: 'documentation', file: 'vision.html'}
-- {name: 'Our Mission', folder: 'sample', file: 'mission.html'}
-- {name: 'Curriculum', folder: 'resources', file: 'curriculum.html'}
-- {name: 'Contact', folder: 'facts', file: 'contact.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Our Vision', folder: 'pages', file: 'vision.html'}
+- {name: 'Our Mission', folder: 'pages', file: 'mission.html'}
+- {name: 'Curriculum', folder: 'pages', file: 'curriculum.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 
 
