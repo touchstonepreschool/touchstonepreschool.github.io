@@ -9,9 +9,9 @@ google-ID: ''
 menu:
 - {name: 'About', folder: 'documentation', file: 'welcome-to-millennial.html'}
 - {name: 'Our Vision', folder: 'documentation', file: 'getting-started.html'}
-- {name: 'Our Mission', folder: 'documentation', file: 'text-formatting.html'}
-- {name: 'Curriculum', folder: 'documentation', file: 'learning-resources.html'}
-- {name: 'Contact', folder: 'documentation', file: 'about-the-author.html'}
+- {name: 'Our Mission', folder: 'sample', file: 'text-formatting.html'}
+- {name: 'Curriculum', folder: 'resources', file: 'learning-resources.html'}
+- {name: 'Contact', folder: 'facts', file: 'about-the-author.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 
 
