@@ -8,9 +8,9 @@ google-ID: ''
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Our Vision', folder: 'pages', file: 'facts.html'}
-- {name: 'Our Mission', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Curriculum', folder: 'pages', file: 'resources.html'}
+- {name: 'Our Vision', folder: 'pages', file: 'vision.html'}
+- {name: 'Our Mission', folder: 'pages', file: 'mission.html'}
+- {name: 'Curriculum', folder: 'pages', file: 'curriculum.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 
