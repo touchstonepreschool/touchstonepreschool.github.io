@@ -4,7 +4,7 @@ title: "Our Mission"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: curriculum1.jpg
+image: curriculum1.png
 ---
 
 # Markdown Support
