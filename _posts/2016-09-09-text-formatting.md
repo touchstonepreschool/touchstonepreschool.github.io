@@ -1,4 +1,4 @@
 ---
-title: "Language Development"
+title: "Cognitive Development"
 image: curriculum5.png
 ---
