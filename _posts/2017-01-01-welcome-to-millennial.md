@@ -1,4 +1,4 @@
 ---
 title: "Welcome to Touchstone!"
-image: welcome.png
+image: contact.png
 ---
