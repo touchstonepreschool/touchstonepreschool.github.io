@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Our Vision"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: city-2.jpg
+image: curriculum4.jpg
 ---
 
 # Millennial
