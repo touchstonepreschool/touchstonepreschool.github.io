@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Our Mission"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: curriculum1.jpg
 ---
 
 # Markdown Support
