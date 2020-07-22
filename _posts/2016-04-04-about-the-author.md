@@ -1,4 +1,4 @@
 ---
 title: Contact Us
-image: last.png
+image: curriculum1.png
 ---
