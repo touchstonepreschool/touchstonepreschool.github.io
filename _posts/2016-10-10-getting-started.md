@@ -4,5 +4,5 @@ title: "Our Vision"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: curriculum1.png
+image: curriculum4.png
 ---
