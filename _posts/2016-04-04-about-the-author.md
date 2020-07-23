@@ -1,4 +1,4 @@
 ---
-title: Contact Us
-image: curriculum1.png
+title: Creativity Development
+image: curriculum3.png
 ---
