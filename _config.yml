@@ -16,6 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Touchstone"
 description:	       "a Preschool"
+author:              "Shikha Mohan"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
