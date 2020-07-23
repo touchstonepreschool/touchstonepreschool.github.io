@@ -17,6 +17,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'youtube', link: 'https://www.youtube.com/watch?v=Uw4ZxvRDKtc&feature=youtu.be'}
 - {icon: 'facebook', link: 'https://www.facebook.com/TouchstonePreschool/'}
 - {icon: 'instagram', link: 'https://instagram.com/touchstone.a.preschool'}
 - {icon: 'envelope', link: 'mailto:touchstoneapreschool@gmail.com'}
