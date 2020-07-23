@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'About Us', folder: 'pages', file: 'about.html'}
 - {name: 'Our Vision', folder: 'pages', file: 'vision.html'}
 - {name: 'Our Mission', folder: 'pages', file: 'mission.html'}
 - {name: 'Curriculum', folder: 'pages', file: 'curriculum.html'}
