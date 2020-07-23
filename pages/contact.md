@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: form
 title: Contact Us
 categories: facts
 tags: [sample]
