@@ -8,4 +8,6 @@ image: contact.png
 
 # Contact Form
 
+{% include form.html %}
+
 
