@@ -1,4 +1,4 @@
 ---
 title: "Welcome!"
-image: welcome.png
+image: contact.png
 ---
